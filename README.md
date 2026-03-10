@@ -70,17 +70,6 @@ This project implements a **web application** for detecting **barcodes, QR codes
 5. Download or save the output image if needed.
 
 ---
-
-## Demo
-
-Check the live demo here: [Live Demo](https://yolo-barcode-vehicle-detection.streamlit.app/)
-
-![Demo Screenshot](docs/demo_screenshot.png)
-*Replace `docs/demo_screenshot.png` with your actual screenshot path.*
-
----
-
----
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
