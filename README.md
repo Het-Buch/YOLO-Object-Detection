@@ -80,18 +80,6 @@ Check the live demo here: [Live Demo](https://yolo-barcode-vehicle-detection.str
 
 ---
 
-## Screenshots
-
-### Vehicle Detection
-
-![Vehicle Detection](docs/vehicle_detection.png)
-
-### Barcode/QR Detection
-
-![Barcode/QR Detection](docs/barcode_detection.png)
-
-*Replace `docs/vehicle_detection.png` and `docs/barcode_detection.png` with your actual screenshots.*
-
 ---
 ## License
 
